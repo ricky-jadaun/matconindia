@@ -1,0 +1,10 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" width="72" height="72">
+	<defs>
+		<image  width="72" height="72" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABIAQMAAABvIyEEAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAAC3a8EoB3+QAAAAJ0Uk5TAP9bkSK1AAAALklEQVR4nGPk/8AABh8Z7Q9AWH8Z6xsgrP9IrP8MUDDKGmUNAAtbmkSkWHgqBgBMt0/ZdWZ+8gAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		.s0 { fill: #fbf4ef } 
+	</style>
+	<use  href="#img1" x="0" y="0"/>
+	<path class="s0" d="m54.97 20.84c0.19-0.87-0.66-1.59-1.48-1.28l-35.77 13.66q-0.33 0.12-0.52 0.4-0.2 0.29-0.2 0.63 0 0.35 0.19 0.64 0.2 0.28 0.52 0.41l10.05 3.88v12.22q0 0.39 0.24 0.69 0.24 0.3 0.62 0.39 0.37 0.09 0.72-0.07 0.35-0.17 0.53-0.51l4.16-8.25 10.14 7.53c0.62 0.46 1.5 0.17 1.73-0.57 9.47-31.05 9.06-29.7 9.07-29.77zm-8.83 3.91l-17.42 12.41-7.5-2.9zm-16.16 14.24l15.19-10.82c-13.07 13.79-12.38 13.07-12.44 13.14-0.09 0.12 0.15-0.33-2.75 5.41zm14.24 9.47l-8.93-6.63 16.15-17.03z"/>
+</svg>

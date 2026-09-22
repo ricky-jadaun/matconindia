@@ -1,0 +1,12 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 38" width="38" height="38">
+	<defs>
+		<image  width="38" height="36" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAkBAMAAAAX21WWAAAAAXNSR0IB2cksfwAAABhQTFRFAAAAC3a8C3a8AAAADXW6FXSwgAAAgAAAoQeZsgAAAAh0Uk5TAP8AAQApAgQadurVAAABGElEQVR4nFVSy1FDMRDbJYEb4C2BChgqgHSQFugwJaQESgh3GJsrOSyrlT8Pzzx7nyzLsmwVERNvkk2L1OizQCU5i2nNYoNFqaC1MjC35g2YP10m9lOIVVtrqxFLYbEqvdb9vXCzkl38vOr7ibSXy813JyotpY1K1wJs9yVLFbi5Sk2d1LUwq/b4CTOxkl04JC9F89zkkQItpJJ6hw9SKjOLaq/RBceIVXBdezxIxnKS/uT5PLA0pT2eQntxanhhPBOLnSMD1y3WimuPrIwPueROm7sMF9rHdW/IPjS9Y7sHKQ08Q1RcjNG49vbK1VB5O4972zZgEL775f/xxLexzj6yUFnOpktZzoZLXY9xPs2J8bz/sZ4z2h8T56B03l7/sQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		.s0 { fill: #0b76bc } 
+	</style>
+	<g id="Folder 2">
+		<use id="Folder 1" href="#img1" x="0" y="1"/>
+		<path id="Shape 1" fill-rule="evenodd" class="s0" d="m31 4v1h-1v-1z"/>
+	</g>
+</svg>

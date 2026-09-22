@@ -1,0 +1,19 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58 58" width="58" height="58">
+	<defs>
+		<image  width="58" height="58" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADoAAAA6AQMAAADbddhrAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAAAH7act3WfQAAAAJ0Uk5TAP9bkSK1AAAALElEQVR4nGOUf8AABP+ZGOsbQAyGRgTjP5hmODjKGD4MeOTaHwAzGBlhCQAAaSJku3Pq+G8AAAAASUVORK5CYII="/>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m13 13h32v32h-32z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+	</style>
+	<use  href="#img1" x="0" y="0"/>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g>
+			<path class="s0" d="m38.28 20.41h-6.86v-6.86z"/>
+			<path class="s0" d="m30.48 22.29c-0.52 0-0.94-0.42-0.94-0.94v-8.35h-15.6c-0.52 0-0.94 0.42-0.94 0.94v30.12c0 0.52 0.42 0.94 0.94 0.94h18.53c-2.11-1.64-3.47-4.19-3.47-7.06 0-4.93 4.01-8.94 8.94-8.94q0.45 0 0.89 0.04v-6.75zm-7.51 12.08h-5.28c-0.52 0-0.94-0.42-0.94-0.93 0-0.52 0.42-0.94 0.94-0.94h5.28c0.52 0 0.94 0.42 0.94 0.94 0 0.51-0.42 0.93-0.94 0.93zm4.41-4.37h-9.69c-0.52 0-0.94-0.42-0.94-0.94 0-0.51 0.42-0.94 0.94-0.94h9.69c0.52 0 0.94 0.43 0.94 0.94 0 0.52-0.42 0.94-0.94 0.94zm0-4.38h-9.69c-0.52 0-0.94-0.42-0.94-0.93 0-0.52 0.42-0.94 0.94-0.94h9.69c0.52 0 0.94 0.42 0.94 0.94 0 0.51-0.42 0.93-0.94 0.93z"/>
+			<path class="s0" d="m37.94 30.88c-3.9 0-7.06 3.16-7.06 7.06 0 3.89 3.16 7.06 7.06 7.06 3.89 0 7.06-3.17 7.06-7.06 0-3.9-3.17-7.06-7.06-7.06zm3.64 5.81l-3.83 3.82q-0.29 0.28-0.66 0.28-0.37 0-0.66-0.28l-2.13-2.13c-0.37-0.36-0.37-0.96 0-1.32 0.37-0.37 0.96-0.37 1.33 0l1.46 1.46 1.05-1.05 2.11-2.11c0.37-0.36 0.96-0.36 1.33 0 0.36 0.37 0.36 0.96 0 1.33z"/>
+		</g>
+	</g>
+</svg>

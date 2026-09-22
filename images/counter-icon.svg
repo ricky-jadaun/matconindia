@@ -1,0 +1,8 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 42" width="42" height="42">
+	<defs>
+		<image  width="44" height="44" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsBAMAAADsqkcyAAAAAXNSR0IB2cksfwAAABJQTFRFAAAAAH7agAAAAAAAC3vMAn3Y++QdVwAAAAZ0Uk5TAP8CASmh6p5uNAAAAP9JREFUeJyt0sENwjAMBVCHcoXGEzACYv8LI4DEANxRSZig2N92QykXEJEq2ofjuHYTfVyJiBdYfuCx4oHTnVIea8pzlt/GeofD88RyOadMtGS2k95YYyk2VefdZWOxxhqgXDh0xkSeQl/t0TceH3k1GBe5ggtK2R9RVbf13OSNGQ8nzcXKjNP8BLKQ8sY4eMZ4KeQg42gGIrDNGE9gqZQaW380sk6sEfszRZmYg3LlVhqtbxTsM4Ajl7FXA+6vYJuZe7f1EaU2yt1J/pXUL6y+GjgmN3E0xRshLJt1Ha4xOml4snZbFT5QKW7G053y4oOVg//FZaH8Pf+hkg8o6wlN67M9jH3pHwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Clip-Path" href="#img1" x="-1" y="-1"/>
+</svg>

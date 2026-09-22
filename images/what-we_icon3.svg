@@ -1,0 +1,30 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" width="72" height="72">
+	<defs>
+		<image  width="72" height="72" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABIAQMAAABvIyEEAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAAC3a8EoB3+QAAAAJ0Uk5TAP9bkSK1AAAALklEQVR4nGPk/8AABh8Z7Q9AWH8Z6xsgrP9IrP8MUDDKGmUNAAtbmkSkWHgqBgBMt0/ZdWZ+8gAAAABJRU5ErkJggg=="/>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m17 17h38v38h-38z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: none;stroke: #fbf4ef;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2.2 } 
+		.s1 { fill: #fbf4ef } 
+	</style>
+	<use  href="#img1" x="0" y="0"/>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g>
+			<path fill-rule="evenodd" class="s0" d="m22.56 20.34l-2.22-2.23v8.98"/>
+			<path fill-rule="evenodd" class="s0" d="m20.34 18.11l-2.23 2.23"/>
+			<path fill-rule="evenodd" class="s0" d="m53.89 38.27l-2.23 2.22v-8.98"/>
+			<path fill-rule="evenodd" class="s0" d="m51.66 40.49l-2.22-2.22"/>
+			<path class="s0" d="m43.63 40.45h-24.16c-0.75 0-1.36-0.6-1.36-1.35v-6.2c0-0.75 0.61-1.35 1.36-1.35h24.16c0.74 0 1.35 0.6 1.35 1.35v6.2c0 0.75-0.61 1.35-1.35 1.35z"/>
+			<path class="s0" d="m52.53 53.89h-24.16c-0.74 0-1.35-0.61-1.35-1.36v-6.2c0-0.74 0.61-1.35 1.35-1.35h24.16c0.75 0 1.36 0.61 1.36 1.35v6.2c0 0.75-0.61 1.36-1.36 1.36z"/>
+			<path class="s0" d="m52.53 27.02h-24.16c-0.74 0-1.35-0.61-1.35-1.35v-6.2c0-0.75 0.61-1.36 1.35-1.36h24.16c0.75 0 1.36 0.61 1.36 1.36v6.2c0 0.74-0.61 1.35-1.36 1.35z"/>
+			<path class="s1" d="m23.68 36c0 0.61-0.5 1.11-1.11 1.11-0.62 0-1.12-0.5-1.12-1.11 0-0.61 0.5-1.11 1.12-1.11 0.61 0 1.11 0.5 1.11 1.11z"/>
+			<path fill-rule="evenodd" class="s0" d="m27.02 36h13.51"/>
+			<path class="s1" d="m32.59 22.57c0 0.61-0.5 1.11-1.12 1.11-0.61 0-1.11-0.5-1.11-1.11 0-0.62 0.5-1.12 1.11-1.12 0.62 0 1.12 0.5 1.12 1.12z"/>
+			<path fill-rule="evenodd" class="s0" d="m35.93 22.57h13.5"/>
+			<path class="s1" d="m32.59 49.43c0 0.62-0.5 1.12-1.12 1.12-0.61 0-1.11-0.5-1.11-1.12 0-0.61 0.5-1.11 1.11-1.11 0.62 0 1.12 0.5 1.12 1.11z"/>
+			<path fill-rule="evenodd" class="s0" d="m35.93 49.43h13.5"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,10 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58 58" width="58" height="58">
+	<defs>
+		<image  width="58" height="58" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADoAAAA6AQMAAADbddhrAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAAAH7act3WfQAAAAJ0Uk5TAP9bkSK1AAAALElEQVR4nGOUf8AABP+ZGOsbQAyGRgTjP5hmODjKGD4MeOTaHwAzGBlhCQAAaSJku3Pq+G8AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+	</style>
+	<use  href="#img1" x="0" y="0"/>
+	<path class="s0" d="m27.68 35.87h-6.45c-0.52 0-0.94 0.42-0.94 0.93v5.67c0 0.52 0.42 0.94 0.94 0.94h7.39v-6.61c0-0.51-0.42-0.93-0.94-0.93zm9.27-5.25h-5.52c-0.52 0-0.94 0.42-0.94 0.93v11.86h7.4v-11.86c0-0.51-0.42-0.93-0.94-0.93zm-1.04-11.16c0.23 0.46 0.79 0.65 1.26 0.42 0.46-0.23 0.65-0.79 0.42-1.25-1.7-3.43-1.53-3.08-1.55-3.13q-0.14-0.25-0.39-0.39-0.25-0.13-0.54-0.1 0 0-0.01 0c-0.07 0 0.13-0.04-3.42 0.71-0.51 0.11-0.83 0.61-0.72 1.11 0.09 0.44 0.48 0.75 0.91 0.75 0.13 0 0.05 0.01 1.7-0.34q-1.85 3.63-4.77 6.56c-2.39 2.38-5.15 4.24-8.23 5.55-0.47 0.2-0.7 0.75-0.5 1.22 0.21 0.48 0.76 0.7 1.23 0.5 3.3-1.39 6.27-3.39 8.82-5.95q3.13-3.13 5.12-7.02z"/>
+</svg>

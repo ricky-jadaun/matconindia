@@ -1,0 +1,27 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0h48v48h-48z"/>
+		</clipPath>
+		<image  width="46" height="48" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAwCAMAAABZu7juAAAAAXNSR0IB2cksfwAAALFQTFRFAAAAAH7aAH7aAH7aAH7aAH7aAH7a9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch9Hch/kOdGQAAADt0Uk5TAP8g+iIhBAAUCevJvAub/6gQg7CsbnPuHSfk6SUOkz/FyzOc92rHwNdGXp4ROPHKqYAf4uZJTR6R3TwHTt21AAABdklEQVR4nLXS3UvDMBAA8Lt1MxNkqA+KoCgDFQSfRPz/X3wQ8UkQVBCHoiCiIoJx/TBN2/SuzWWd4MGa3PJrckmD0Awk/Sw0aKKHKc8znqMvi+wz8ayA7STCqW0HWdLyhBeFRDEZ7ScNjw3dn7LqBjHfAHLdOooCZC3O/5Y8ztJ8iHK/ZmM4Wxfnk3XmEKWchzWZ3nH2eZqRHz/hJnqprGHhB+qi5wisfFG6Mj/NgLI5+rgq+5pqm/q4ckhT3Z0rmME1qZ/UJnBNtusWC/KqXFaa92RouWUbOBm2OVW/JXOnSS157ud+LfFad+FEMx/6qvyCdbsz/NL8Kxfvuxx/5UElvhaO4fc8fBFNfHbmIwR8l2dfyWeL36p0TcMQn0W+gV/muYQPNtvCD4Dle7n2nWLe1TvzGCO+mPlvQOTj17Kzbkp+ytcZXYHMDx55vomXru/hhxPX3c73fEHGfLUf3dpm97w95OPH17bZP+vG4QRxovdOPSO/rXeBRBHS9M8AAAAASUVORK5CYII="/>
+		<image  width="10" height="10" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKAQMAAAC3/F3+AAAAAXNSR0IB2cksfwAAAAZQTFRFAAAAAH7act3WfQAAAAJ0Uk5TAP9bkSK1AAAAF0lEQVR4nGO0P8hYz8j4/yA6AgraHwQAy/kNixU1954AAAAASUVORK5CYII="/>
+		<image  width="18" height="20" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAUCAMAAAC3SZ14AAAAAXNSR0IB2cksfwAAAHtQTFRFAAAAAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7aAH7ae0KCVAAAACl0Uk5TAAk5/7CBdRzzDH47AsO2mfhNB6z5K7xZH4PoU630TmXsJQ5jp8C9iDqrvfpPAAAAc0lEQVR4nGNkQADG/xCKAQMMXSEmRgZGNCHWfwzMqELsjL8Z/jJyMjJ+hYnwMH5j4P7EyP+Fl/E9RESI8QODIONroBADgzDj73cMEoyMLxkYJJ4CzZd+jjBLivER2BHyjI+hItzC96HuUmIEuQVI3ABLAABqEBUfrNAPVgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 22px;fill: #007eda;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+		.s1 { fill: #007eda } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g>
+			<use  href="#img1" x="1" y="0"/>
+			<text id="24" transform="translate(10,34)">
+				<tspan x="0" y="0" class="t0">2</tspan><tspan  y="0" class="t0">4</tspan><tspan  y="0" class="t0">
+</tspan>
+			</text>
+			<use id="Shape 1" href="#img2" x="19" y="38"/>
+			<use id="Shape 2" href="#img3" x="23" y="25"/>
+			<path id="Shape 3" fill-rule="evenodd" class="s1" d="m40.75 36v3h-0.75v-3z"/>
+		</g>
+	</g>
+</svg>
