@@ -3,9 +3,6 @@
     const $window = $(window);
     const CONFIG = { formAction: "form-process.php" };
 
-    // Preloader
-    $window.on("load", () => setTimeout(() => $(".sis-preloader").fadeOut(1000), 700));
-
     // Active Navigation & Mobile Menu
     $(() => {
         let page = location.pathname.split("/").pop().toLowerCase() || "index.html";
